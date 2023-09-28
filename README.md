@@ -3,7 +3,7 @@
 ### Trained on [Flickr30k](https://www.kaggle.com/datasets/eeshawn/flickr30k)
 
 ### Architecture
-![architecture](https://www.kaggle.com/datasets/eeshawn/flickr30k)
+![architecture](https://i.imgur.com/fk68DMo.jpg)
 
 ## Notebooks:
 
