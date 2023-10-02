@@ -6,6 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from timm import create_model, list_models
 from types import SimpleNamespace
+from model import VisionGPT2Model
 from transformers import GPT2LMHeadModel, GPT2TokenizerFast, get_linear_schedule_with_warmup
 import albumentations as A
 from albumentations.pytorch import ToTensorV2
