@@ -42,3 +42,22 @@ The dataset I used was `COCO 2017` with options for `Flickr30k` and `Flickr8k`.
 - The results are good not great, I only trained on about 30% of the training samples in COCO.
 
 ### Results
+
+| Epoch | Train Loss | Train Perplexity | Val Loss | Val Perplexity |
+|---|---|---|---|---|
+| 0 | 5.164732 | 174.990611 | 3.288565 | 26.804375 |
+| 1 | 2.668888 | 14.423919 | 2.341017 | 10.391795 |
+| 2 | 2.30841 | 10.058415 | 2.201064 | 9.034617 |
+| 3 | 2.033982 | 7.64447 | 2.099659 | 8.163385 |
+| 4 | 1.855595 | 6.395501 | 2.08667 | 8.058035 |
+
+### Predictions
+
+![](https://i.imgur.com/YLUoOfS.png)
+![](https://i.imgur.com/oYm0Hkd.png)
+![](https://i.imgur.com/Qr6ua1Z.png)
+![](https://i.imgur.com/FErAT56.png)
+![](https://i.imgur.com/sVwUgqC.png)
+![](https://i.imgur.com/spO5vyl.png)
+
+#### See more [here](https://www.kaggle.com/code/shreydan/visiongpt2-image-captioning-pytorch#Predictions)
