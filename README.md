@@ -54,6 +54,7 @@ The dataset I used was `COCO 2017` with options for `Flickr30k` and `Flickr8k`.
 ### Predictions
 
 ![](https://i.imgur.com/YLUoOfS.png)
+![](https://i.imgur.com/K1L3OpS.png)
 ![](https://i.imgur.com/oYm0Hkd.png)
 ![](https://i.imgur.com/Qr6ua1Z.png)
 ![](https://i.imgur.com/FErAT56.png)
